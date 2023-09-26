@@ -23,8 +23,6 @@ For this challenge, we employed the following testing strategy:
 
 ## Running the Test Project
 
-## Running the Test Project
-
 To run the test project on your local machine, follow these steps:
 
 1. **Prerequisites:**
